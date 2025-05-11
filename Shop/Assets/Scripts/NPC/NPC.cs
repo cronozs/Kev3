@@ -9,11 +9,12 @@ namespace Shop
         [SerializeField, TextArea] private string npcText;
         [SerializeField] private Canvas npcCanvas;
         [SerializeField] private Canvas interactCanvas;
+        [SerializeField] private Canvas shop;
         [SerializeField] private TextMeshProUGUI showText;
-        [SerializeField] private LayerMask layerTarget;
+        [SerializeField] private int layerTarget;
 
-        [SerializeField] private bool _canInteract = false;
-
+        private bool _canInteract = false;
+        private bool _canEnterShop = false;
         private void Update()
         {
             Interact();
@@ -21,7 +22,7 @@ namespace Shop
 
         private void OnTriggerEnter2D(Collider2D collision)
         {
-            //if (collision.gameObject.layer != layerTarget) return;
+            if (collision.gameObject.layer != layerTarget) return;
             interactCanvas.enabled = true;
             showText.text = npcText;
             _canInteract = true;
@@ -40,6 +41,13 @@ namespace Shop
             {
                 interactCanvas.enabled = false;
                 npcCanvas.enabled = true;
+                _canEnterShop = true;
+                _canInteract = false;
+            }
+            else if(_canEnterShop && !_canInteract && Input.GetKeyDown(KeyCode.E))
+            {
+                npcCanvas.enabled = false;
+                shop.enabled = true;
             }
         }
     }
