@@ -51,6 +51,7 @@ namespace Shop
                 pm.enabled = false;
                 npcCanvas.enabled = false;
                 shop.enabled = true;
+                _canEnterShop = false;
             }
         }
     }

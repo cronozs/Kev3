@@ -10,6 +10,7 @@ namespace Shop
         [SerializeField] private TextMeshProUGUI nameText;
         [SerializeField] private TextMeshProUGUI costText;
         [SerializeField] private TextMeshProUGUI inventarioText;
+        [SerializeField] private Canvas shopCanvas;
 
         [SerializeField] private Image[] shopSpots;
 
@@ -17,6 +18,8 @@ namespace Shop
         [SerializeField] private Button sellButton;
 
         [SerializeField] private CoinManager coinManager;
+
+        [SerializeField] private PlayerMovement playerMovement;
 
 
         void Start()
@@ -91,7 +94,11 @@ namespace Shop
             Verify();
         }
 
-       
+        public void Back()
+        {
+            shopCanvas.enabled = false;
+            playerMovement.enabled = true;
+        }
 
     }
 }
