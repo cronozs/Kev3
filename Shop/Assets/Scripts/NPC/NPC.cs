@@ -1,19 +1,44 @@
 using UnityEngine;
+using TMPro;
 
 namespace Shop
 {
-    public class NPC : MonoBehaviour
+    [RequireComponent(typeof(BoxCollider2D), typeof(Rigidbody2D))]
+    public class NPC : MonoBehaviour, IInteract
     {
-        // Start is called once before the first execution of Update after the MonoBehaviour is created
-        void Start()
+        [SerializeField, TextArea] private string npcText;
+        [SerializeField] private Canvas npcCanvas;
+        [SerializeField] private Canvas interactCanvas;
+        [SerializeField] private TextMeshProUGUI showText;
+
+        [SerializeField] private bool _canInteract = false;
+
+        private void Update()
         {
-        
+            Interact();
         }
 
-        // Update is called once per frame
-        void Update()
+        private void OnTriggerEnter2D(Collider2D collision)
         {
-        
+            interactCanvas.enabled = true;
+            showText.text = npcText;
+            _canInteract = true;
+        }
+
+        private void OnTriggerExit2D(Collider2D collision)
+        {
+            _canInteract = false;
+            npcCanvas.enabled = false;
+            interactCanvas.enabled = false;
+        }
+
+        public void Interact()
+        {
+            if (_canInteract && Input.GetKeyDown(KeyCode.E))
+            {
+                interactCanvas.enabled = false;
+                npcCanvas.enabled = true;
+            }
         }
     }
 }
