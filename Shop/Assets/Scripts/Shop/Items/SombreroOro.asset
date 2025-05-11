@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f478e5d79afff6b44bceb4754346a1a1, type: 3}
+  m_Name: SombreroOro
+  m_EditorClassIdentifier: 
+  imagen: {fileID: 7036719910742053074, guid: 4ed6b31333a116142ae03707e4d8246f, type: 3}
+  nombre: Sombrero de Oro
+  costo: 12
+  inventario: 0

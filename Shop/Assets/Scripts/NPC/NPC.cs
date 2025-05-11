@@ -15,6 +15,8 @@ namespace Shop
 
         private bool _canInteract = false;
         private bool _canEnterShop = false;
+
+        [SerializeField] private PlayerMovement pm;
         private void Update()
         {
             Interact();
@@ -46,6 +48,7 @@ namespace Shop
             }
             else if(_canEnterShop && !_canInteract && Input.GetKeyDown(KeyCode.E))
             {
+                pm.enabled = false;
                 npcCanvas.enabled = false;
                 shop.enabled = true;
             }
