@@ -6,4 +6,5 @@ namespace Shop
     {
         public void Interact();
     }
+    
 }

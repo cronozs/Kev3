@@ -4,13 +4,15 @@ namespace Shop
 {
     public class EquiptManager : MonoBehaviour
     {
-        [SerializeField] private GameObject[] equipSpots;
+        public GameObject[] equipSpots;
         [SerializeField] private ShopManager shopManager;
         [SerializeField] private int currentSpot =0;
 
         [SerializeField] private Canvas equipCanvas;
 
-        [SerializeField] private PlayerMovement playerMovement;
+        [SerializeField] public PlayerMovement playerMovement;
+
+
 
         void Start()
         {
@@ -57,4 +59,5 @@ namespace Shop
         }
 
     }
+
 }

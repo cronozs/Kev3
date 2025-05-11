@@ -430,6 +430,7 @@ GameObject:
   - component: {fileID: 155055150}
   - component: {fileID: 155055149}
   - component: {fileID: 155055151}
+  - component: {fileID: 155055152}
   m_Layer: 0
   m_Name: EquipSpot (8)
   m_TagString: Untagged
@@ -538,18 +539,35 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: 
-        m_MethodName: 
+      - m_Target: {fileID: 155055152}
+        m_TargetAssemblyTypeName: Shop.EquipSpot, Assembly-CSharp
+        m_MethodName: EquipItem
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+--- !u!114 &155055152
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 155055147}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33d678d90243d4547b05ad5ce4864de6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bodyImage: {fileID: 1484620095}
+  headImage: {fileID: 1180639091}
+  equiptManager: {fileID: 594139037}
+  shopManager: {fileID: 594139036}
+  index: 8
 --- !u!1 &161864498
 GameObject:
   m_ObjectHideFlags: 0
@@ -1725,6 +1743,7 @@ GameObject:
   - component: {fileID: 320549896}
   - component: {fileID: 320549895}
   - component: {fileID: 320549897}
+  - component: {fileID: 320549898}
   m_Layer: 0
   m_Name: EquipSpot (7)
   m_TagString: Untagged
@@ -1833,18 +1852,35 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: 
-        m_MethodName: 
+      - m_Target: {fileID: 320549898}
+        m_TargetAssemblyTypeName: Shop.EquipSpot, Assembly-CSharp
+        m_MethodName: EquipItem
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+--- !u!114 &320549898
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 320549893}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33d678d90243d4547b05ad5ce4864de6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bodyImage: {fileID: 1484620095}
+  headImage: {fileID: 1180639091}
+  equiptManager: {fileID: 594139037}
+  shopManager: {fileID: 594139036}
+  index: 5
 --- !u!1 &348430447
 GameObject:
   m_ObjectHideFlags: 0
@@ -2003,6 +2039,7 @@ GameObject:
   - component: {fileID: 353023966}
   - component: {fileID: 353023965}
   - component: {fileID: 353023967}
+  - component: {fileID: 353023968}
   m_Layer: 0
   m_Name: EquipSpot (5)
   m_TagString: Untagged
@@ -2111,18 +2148,35 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: 
-        m_MethodName: 
+      - m_Target: {fileID: 353023968}
+        m_TargetAssemblyTypeName: Shop.EquipSpot, Assembly-CSharp
+        m_MethodName: EquipItem
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+--- !u!114 &353023968
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 353023963}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33d678d90243d4547b05ad5ce4864de6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bodyImage: {fileID: 1484620095}
+  headImage: {fileID: 1180639091}
+  equiptManager: {fileID: 594139037}
+  shopManager: {fileID: 594139036}
+  index: 7
 --- !u!1 &362602303
 GameObject:
   m_ObjectHideFlags: 0
@@ -4359,6 +4413,7 @@ GameObject:
   - component: {fileID: 899011564}
   - component: {fileID: 899011563}
   - component: {fileID: 899011565}
+  - component: {fileID: 899011566}
   m_Layer: 0
   m_Name: EquipSpot (1)
   m_TagString: Untagged
@@ -4467,18 +4522,35 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: 
-        m_MethodName: 
+      - m_Target: {fileID: 899011566}
+        m_TargetAssemblyTypeName: Shop.EquipSpot, Assembly-CSharp
+        m_MethodName: EquipItem
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+--- !u!114 &899011566
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 899011561}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33d678d90243d4547b05ad5ce4864de6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bodyImage: {fileID: 1484620095}
+  headImage: {fileID: 1180639091}
+  equiptManager: {fileID: 594139037}
+  shopManager: {fileID: 594139036}
+  index: 3
 --- !u!1 &911274844
 GameObject:
   m_ObjectHideFlags: 0
@@ -4938,6 +5010,7 @@ GameObject:
   - component: {fileID: 1071050901}
   - component: {fileID: 1071050900}
   - component: {fileID: 1071050902}
+  - component: {fileID: 1071050903}
   m_Layer: 0
   m_Name: EquipSpot (3)
   m_TagString: Untagged
@@ -5046,18 +5119,35 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: 
-        m_MethodName: 
+      - m_Target: {fileID: 1071050903}
+        m_TargetAssemblyTypeName: Shop.EquipSpot, Assembly-CSharp
+        m_MethodName: EquipItem
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+--- !u!114 &1071050903
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1071050898}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33d678d90243d4547b05ad5ce4864de6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bodyImage: {fileID: 1484620095}
+  headImage: {fileID: 1180639091}
+  equiptManager: {fileID: 594139037}
+  shopManager: {fileID: 594139036}
+  index: 1
 --- !u!1 &1074328667
 GameObject:
   m_ObjectHideFlags: 0
@@ -5416,6 +5506,7 @@ GameObject:
   - component: {fileID: 1115504522}
   - component: {fileID: 1115504521}
   - component: {fileID: 1115504523}
+  - component: {fileID: 1115504524}
   m_Layer: 0
   m_Name: EquipSpot
   m_TagString: Untagged
@@ -5524,18 +5615,35 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: 
-        m_MethodName: 
+      - m_Target: {fileID: 1115504524}
+        m_TargetAssemblyTypeName: Shop.EquipSpot, Assembly-CSharp
+        m_MethodName: EquipItem
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+--- !u!114 &1115504524
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1115504519}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33d678d90243d4547b05ad5ce4864de6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bodyImage: {fileID: 1484620095}
+  headImage: {fileID: 1180639091}
+  equiptManager: {fileID: 594139037}
+  shopManager: {fileID: 594139036}
+  index: 0
 --- !u!1 &1120579085
 GameObject:
   m_ObjectHideFlags: 0
@@ -6880,6 +6988,7 @@ GameObject:
   - component: {fileID: 1359101453}
   - component: {fileID: 1359101452}
   - component: {fileID: 1359101454}
+  - component: {fileID: 1359101455}
   m_Layer: 0
   m_Name: EquipSpot (2)
   m_TagString: Untagged
@@ -6988,18 +7097,35 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: 
-        m_MethodName: 
+      - m_Target: {fileID: 1359101455}
+        m_TargetAssemblyTypeName: Shop.EquipSpot, Assembly-CSharp
+        m_MethodName: EquipItem
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+--- !u!114 &1359101455
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1359101450}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33d678d90243d4547b05ad5ce4864de6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bodyImage: {fileID: 1484620095}
+  headImage: {fileID: 1180639091}
+  equiptManager: {fileID: 594139037}
+  shopManager: {fileID: 594139036}
+  index: 6
 --- !u!1 &1380674119
 GameObject:
   m_ObjectHideFlags: 0
@@ -9453,6 +9579,7 @@ GameObject:
   - component: {fileID: 1973901634}
   - component: {fileID: 1973901633}
   - component: {fileID: 1973901635}
+  - component: {fileID: 1973901636}
   m_Layer: 0
   m_Name: EquipSpot (6)
   m_TagString: Untagged
@@ -9561,18 +9688,35 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: 
-        m_MethodName: 
+      - m_Target: {fileID: 1973901636}
+        m_TargetAssemblyTypeName: Shop.EquipSpot, Assembly-CSharp
+        m_MethodName: EquipItem
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+--- !u!114 &1973901636
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1973901631}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33d678d90243d4547b05ad5ce4864de6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bodyImage: {fileID: 1484620095}
+  headImage: {fileID: 1180639091}
+  equiptManager: {fileID: 594139037}
+  shopManager: {fileID: 594139036}
+  index: 2
 --- !u!1 &1977681633
 GameObject:
   m_ObjectHideFlags: 0
@@ -9585,6 +9729,7 @@ GameObject:
   - component: {fileID: 1977681636}
   - component: {fileID: 1977681635}
   - component: {fileID: 1977681637}
+  - component: {fileID: 1977681638}
   m_Layer: 0
   m_Name: EquipSpot (4)
   m_TagString: Untagged
@@ -9693,18 +9838,35 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: 
-        m_MethodName: 
+      - m_Target: {fileID: 1977681638}
+        m_TargetAssemblyTypeName: Shop.EquipSpot, Assembly-CSharp
+        m_MethodName: EquipItem
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+--- !u!114 &1977681638
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1977681633}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33d678d90243d4547b05ad5ce4864de6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bodyImage: {fileID: 1484620095}
+  headImage: {fileID: 1180639091}
+  equiptManager: {fileID: 594139037}
+  shopManager: {fileID: 594139036}
+  index: 4
 --- !u!1 &2000248259
 GameObject:
   m_ObjectHideFlags: 0

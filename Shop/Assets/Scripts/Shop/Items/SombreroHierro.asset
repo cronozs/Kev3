@@ -16,3 +16,4 @@ MonoBehaviour:
   nombre: Sombrero de Hierro
   costo: 7
   inventario: 0
+  type: 1

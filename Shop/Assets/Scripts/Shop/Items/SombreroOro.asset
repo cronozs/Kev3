@@ -16,3 +16,4 @@ MonoBehaviour:
   nombre: Sombrero de Oro
   costo: 12
   inventario: 0
+  type: 1
