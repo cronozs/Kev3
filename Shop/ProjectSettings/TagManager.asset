@@ -2,7 +2,7 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 2
+  serializedVersion: 3
   tags: []
   layers:
   - Default
@@ -11,9 +11,9 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
+  - Player
+  - NPC
+  - Interactable
   - 
   - 
   - 
@@ -41,3 +41,20 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Background
+    uniqueID: 616569057
+    locked: 0
+  - name: Fond
+    uniqueID: 567611509
+    locked: 0
+  - name: Walls
+    uniqueID: 2999785409
+    locked: 0
+  - name: Player
+    uniqueID: 1627191979
+    locked: 0
+  - name: Details
+    uniqueID: 3142452349
+    locked: 0
+  m_RenderingLayers:
+  - Default
