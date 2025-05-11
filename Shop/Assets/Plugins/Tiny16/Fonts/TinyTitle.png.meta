@@ -1,0 +1,1480 @@
+fileFormatVersion: 2
+guid: 386a4d7b099233a47876fb31c0ff0f5d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5813980216755157346
+    second: TinyTitle_0
+  - first:
+      213: -2123131648872985263
+    second: TinyTitle_1
+  - first:
+      213: 325938904274591223
+    second: TinyTitle_2
+  - first:
+      213: 3421542558323445593
+    second: TinyTitle_3
+  - first:
+      213: -7298481959320192166
+    second: TinyTitle_4
+  - first:
+      213: -6935252750064160781
+    second: TinyTitle_5
+  - first:
+      213: 2751045085092744922
+    second: TinyTitle_6
+  - first:
+      213: 2304947330684520638
+    second: TinyTitle_7
+  - first:
+      213: 5991859643657736524
+    second: TinyTitle_8
+  - first:
+      213: -5521520346608387051
+    second: TinyTitle_9
+  - first:
+      213: 1256190982052060420
+    second: TinyTitle_10
+  - first:
+      213: 8387610895070135955
+    second: TinyTitle_11
+  - first:
+      213: -6246175904390229521
+    second: TinyTitle_12
+  - first:
+      213: 3645643450718446945
+    second: TinyTitle_13
+  - first:
+      213: 9195215096886268916
+    second: TinyTitle_14
+  - first:
+      213: 3906659767113537083
+    second: TinyTitle_15
+  - first:
+      213: -5382291839606573036
+    second: TinyTitle_16
+  - first:
+      213: 7371880068262062190
+    second: TinyTitle_17
+  - first:
+      213: -3041530507483546096
+    second: TinyTitle_18
+  - first:
+      213: 7212435055886582573
+    second: TinyTitle_19
+  - first:
+      213: -2188815900048628735
+    second: TinyTitle_20
+  - first:
+      213: 5879784987596554948
+    second: TinyTitle_21
+  - first:
+      213: -8605658960408098272
+    second: TinyTitle_22
+  - first:
+      213: 213195629426417373
+    second: TinyTitle_23
+  - first:
+      213: 2107758509868153711
+    second: TinyTitle_24
+  - first:
+      213: -1942017205545746913
+    second: TinyTitle_25
+  - first:
+      213: 8846251166775953217
+    second: TinyTitle_26
+  - first:
+      213: -4884427869746574766
+    second: TinyTitle_27
+  - first:
+      213: 6958465548208544630
+    second: TinyTitle_28
+  - first:
+      213: -4450047858882176227
+    second: TinyTitle_29
+  - first:
+      213: 265494221807301423
+    second: TinyTitle_30
+  - first:
+      213: -1616696937084093299
+    second: TinyTitle_31
+  - first:
+      213: 4704191296268262729
+    second: TinyTitle_32
+  - first:
+      213: -1924332775556868500
+    second: TinyTitle_33
+  - first:
+      213: -1170030954224668203
+    second: TinyTitle_34
+  - first:
+      213: -8713837710217123100
+    second: TinyTitle_35
+  - first:
+      213: -6501142731411817637
+    second: TinyTitle_36
+  - first:
+      213: -6387682090418149536
+    second: TinyTitle_37
+  - first:
+      213: 2217016371099902351
+    second: TinyTitle_38
+  - first:
+      213: -4273612101755231064
+    second: TinyTitle_39
+  - first:
+      213: -1983931498869115615
+    second: TinyTitle_40
+  - first:
+      213: -4149076393270755714
+    second: TinyTitle_41
+  - first:
+      213: -7063184895420912102
+    second: TinyTitle_42
+  - first:
+      213: -6949964152084252882
+    second: TinyTitle_43
+  - first:
+      213: 8955127669427205163
+    second: TinyTitle_44
+  - first:
+      213: -3960189986893807208
+    second: TinyTitle_45
+  - first:
+      213: -4990742506608171038
+    second: TinyTitle_46
+  - first:
+      213: 768755584183753206
+    second: TinyTitle_47
+  - first:
+      213: 4123664058969339397
+    second: TinyTitle_48
+  - first:
+      213: 2236568097857299042
+    second: TinyTitle_49
+  - first:
+      213: 2598174576971378473
+    second: TinyTitle_50
+  - first:
+      213: 4700207058134726691
+    second: TinyTitle_51
+  - first:
+      213: -1250131050703524881
+    second: TinyTitle_52
+  - first:
+      213: 1674088329292827841
+    second: TinyTitle_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TinyTitle_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 291
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 269f6de04386fa050800000000000000
+      internalID: 5813980216755157346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyTitle_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 291
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d4981a30f1982e0800000000000000
+      internalID: -2123131648872985263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyTitle_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 291
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd54cfd4b7f58400800000000000000
+      internalID: 325938904274591223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyTitle_3
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 291
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f00c424d2cb7f20800000000000000
+      internalID: 3421542558323445593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyTitle_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 297
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b7f17b35596ba90800000000000000
+      internalID: -7298481959320192166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyTitle_5
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 283
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ffefdc4e5801cf90800000000000000
+      internalID: -6935252750064160781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyTitle_6
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 297
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade8902edecad2620800000000000000
+      internalID: 2751045085092744922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyTitle_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 271
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb88f679261dcff10800000000000000
+      internalID: 2304947330684520638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyTitle_8
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 271
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41d734899c572350800000000000000
+      internalID: 5991859643657736524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyTitle_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 271
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51cb050cf7e9f53b0800000000000000
+      internalID: -5521520346608387051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyTitle_10
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 271
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d1347ea03ee6110800000000000000
+      internalID: 1256190982052060420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyTitle_11
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 277
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3960ada6ba7c66470800000000000000
+      internalID: 8387610895070135955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyTitle_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 251
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe1573ecb102159a0800000000000000
+      internalID: -6246175904390229521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyTitle_13
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 251
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1656dc9276de79230800000000000000
+      internalID: 3645643450718446945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyTitle_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 251
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3173b8967fb9f70800000000000000
+      internalID: 9195215096886268916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyTitle_15
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 251
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36dc1d1c5e373630800000000000000
+      internalID: 3906659767113537083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyTitle_16
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 257
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41834c6a6124e45b0800000000000000
+      internalID: -5382291839606573036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyTitle_17
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 243
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68ea8b3ddd2e4660800000000000000
+      internalID: 7371880068262062190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyTitle_18
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 257
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01efdef3e105ac5d0800000000000000
+      internalID: -3041530507483546096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyTitle_19
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 231
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d23c1bf5877b71460800000000000000
+      internalID: 7212435055886582573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyTitle_20
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 231
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104efd62983cf91e0800000000000000
+      internalID: -2188815900048628735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyTitle_21
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 231
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c20e553b41399150800000000000000
+      internalID: 5879784987596554948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyTitle_22
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 237
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ac7be25ce829880800000000000000
+      internalID: -8605658960408098272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyTitle_23
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 216
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde90af9b4c65f200800000000000000
+      internalID: 213195629426417373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyTitle_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 211
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b7ff48233404d10800000000000000
+      internalID: 2107758509868153711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyTitle_25
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 191
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ebfbb04a19c05e0800000000000000
+      internalID: -1942017205545746913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyTitle_26
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 211
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 147c095119234ca70800000000000000
+      internalID: 8846251166775953217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyTitle_27
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 191
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25accb43bb6073cb0800000000000000
+      internalID: -4884427869746574766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyTitle_28
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 191
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b93ce6c8f619060800000000000000
+      internalID: 6958465548208544630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyTitle_29
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 211
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b17d9bc014e32c0800000000000000
+      internalID: -4450047858882176227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyTitle_30
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 191
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f233ebc86993fa300800000000000000
+      internalID: 265494221807301423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyTitle_31
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 211
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8cf3ab83b65099e0800000000000000
+      internalID: -1616696937084093299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyTitle_32
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 171
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ddd816f05a84140800000000000000
+      internalID: 4704191296268262729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyTitle_33
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 171
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c669a4349856b45e0800000000000000
+      internalID: -1924332775556868500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyTitle_34
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 171
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d13a35db0733cfe0800000000000000
+      internalID: -1170030954224668203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyTitle_35
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 185
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eaea1c35ca321780800000000000000
+      internalID: -8713837710217123100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyTitle_36
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 177
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5bf51c512d47c5a0800000000000000
+      internalID: -6501142731411817637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyTitle_37
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 151
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 067608e6bf46a57a0800000000000000
+      internalID: -6387682090418149536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyTitle_38
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 151
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81a2aca4ac64ce10800000000000000
+      internalID: 2217016371099902351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyTitle_39
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 157
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a4a11f9f6411b4c0800000000000000
+      internalID: -4273612101755231064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyTitle_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 131
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125b23720d8a774e0800000000000000
+      internalID: -1983931498869115615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyTitle_41
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 131
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e3329c0058b66c0800000000000000
+      internalID: -4149076393270755714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyTitle_42
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 137
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e288d82c68afd90800000000000000
+      internalID: -7063184895420912102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyTitle_43
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 111
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e27b1591d64cc8f90800000000000000
+      internalID: -6949964152084252882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyTitle_44
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 97
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b24fa764b21074c70800000000000000
+      internalID: 8955127669427205163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyTitle_45
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 110
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891c22c50349a09c0800000000000000
+      internalID: -3960189986893807208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyTitle_46
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 83
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e76d20e1225dbab0800000000000000
+      internalID: -4990742506608171038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyTitle_47
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 104
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9de5a712b2baa00800000000000000
+      internalID: 768755584183753206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyTitle_48
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 77
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 506b9ef0d923a3930800000000000000
+      internalID: 4123664058969339397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyTitle_49
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 63
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26261ccc5d2e90f10800000000000000
+      internalID: 2236568097857299042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyTitle_50
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 63
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f64d413029e0420800000000000000
+      internalID: 2598174576971378473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyTitle_51
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 43
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32877e6aa6d7a3140800000000000000
+      internalID: 4700207058134726691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyTitle_52
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 22
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb6120de64a6aee0800000000000000
+      internalID: -1250131050703524881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyTitle_53
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc402e377e8b3710800000000000000
+      internalID: 1674088329292827841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
