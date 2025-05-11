@@ -2115,9 +2115,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   uiCoins: {fileID: 1084918291}
   cantBuy: {fileID: 0}
-  currentCoins: 0
   startCoins: 10
   messageTime: 1
+  currentCoins: 0
 --- !u!4 &594139035
 Transform:
   m_ObjectHideFlags: 0
@@ -2169,6 +2169,9 @@ MonoBehaviour:
   - {fileID: 1241373632}
   - {fileID: 1046227049}
   - {fileID: 1847827512}
+  buyButton: {fileID: 2051006416}
+  sellButton: {fileID: 2129932246}
+  coinManager: {fileID: 594139034}
 --- !u!1 &598564553
 GameObject:
   m_ObjectHideFlags: 0
@@ -7353,7 +7356,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 2051006417}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 594139036}
+        m_TargetAssemblyTypeName: Shop.ShopManager, Assembly-CSharp
+        m_MethodName: BuyItem
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &2051006417
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10295,7 +10310,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 2129932247}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 594139036}
+        m_TargetAssemblyTypeName: Shop.ShopManager, Assembly-CSharp
+        m_MethodName: SellItem
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &2129932247
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -13,9 +13,15 @@ namespace Shop
 
         [SerializeField] private Image[] shopSpots;
 
+        [SerializeField] private Button buyButton;
+        [SerializeField] private Button sellButton;
+
+        [SerializeField] private CoinManager coinManager;
+
 
         void Start()
         {
+            coinManager = GetComponent<CoinManager>();
             SelectData(0);
             FullData(0,8);
         }
@@ -44,6 +50,48 @@ namespace Shop
             nameText.text = items[index].nombre;
             costText.text = items[index].costo.ToString();
             inventarioText.text = items[index].inventario.ToString();
+            Verify();
         }
+
+        private void Verify()
+        {
+            if (int.Parse(inventarioText.text) == 0) sellButton.enabled = false;
+            else sellButton.enabled = true;
+            if (int.Parse(costText.text) > coinManager.currentCoins) buyButton.enabled = false;
+            else buyButton.enabled = true;
+        }
+
+        public void BuyItem()
+        {
+            coinManager.SubstractCoins(int.Parse(costText.text));
+            for (int index = 0; index < items.Length; index++)
+            {
+                if (image.sprite == items[index].imagen)
+                {
+                    items[index].inventario += 1;
+                    inventarioText.text = items[index].inventario.ToString();
+                }
+                continue;
+            }
+            Verify();
+        }
+
+        public void SellItem()
+        {
+            coinManager.AddCoins(int.Parse(costText.text));
+            for (int index = 0; index < items.Length; index++)
+            {
+                if (image.sprite == items[index].imagen)
+                {
+                    items[index].inventario -= 1;
+                    inventarioText.text = items[index].inventario.ToString();
+                }
+                continue;
+            }
+            Verify();
+        }
+
+       
+
     }
 }

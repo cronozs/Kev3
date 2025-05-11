@@ -8,9 +8,10 @@ namespace Shop
     {
         [SerializeField] private TextMeshProUGUI uiCoins;
         [SerializeField] private Canvas cantBuy;
-        [SerializeField] private int currentCoins;
         [SerializeField] private int startCoins;
         [SerializeField] private float messageTime;
+
+        public int currentCoins;
         void Start()
         {
             currentCoins = startCoins;
@@ -32,33 +33,18 @@ namespace Shop
             uiCoins.text = currentCoins.ToString();
         }
 
-        private void AddCoins(int mount)
+        public void AddCoins(int mount)
         {
             currentCoins += mount;
             UpdateCoins();
         }
 
-        private void SubstractCoins(int mount)
+        public void SubstractCoins(int mount)
         {
-            if(currentCoins - mount <=0)
-            {
-                CantBuy();
-            }
-            else
-            {
-                currentCoins -= mount;
-            }
+            currentCoins -= mount;
+            UpdateCoins();
         }
 
-        private void CantBuy()
-        {
-            cantBuy.enabled = true;
-        }
-
-        IEnumerator WarnigMessage()
-        {
-            yield return new WaitForSeconds(messageTime);
-            cantBuy.enabled = false;
-        }
+       
     }
 }
